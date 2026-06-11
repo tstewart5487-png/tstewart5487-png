@@ -1,50 +1,51 @@
-# Hey, I'm Teddy 👋
+# Teddy Stewart
+### Career Transition | Executive Chef → QA Engineer 🍴 → 🖥️
 
-## From Executive Chef to QA Engineer 🍴 → 🖥️
-
-After 20 years running professional kitchens as an executive chef, I've traded 
-in my knives for DevTools and I couldn't be more excited about it.
+Twenty years in professional kitchens taught me that quality isn't optional. I'm bringing that same standard into tech.
 
 ---
 
 ## About Me
 
-I'm currently a **TripleTen Fellow** studying Quality Assurance, making a 
-full career pivot into tech. The same obsessive attention to detail that made 
-me a good chef is what drives me in QA — finding what's broken, 
-understanding why, and making sure it doesn't happen again.
+I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completing a structured career transition into the software industry. The discipline and attention to detail developed over two decades as an executive chef translate directly into QA — identifying defects, understanding root causes, and preventing recurrence.
 
 ---
 
 ## Currently Learning 🧠
-- Manual QA testing methodologies
-- Test case design and requirements analysis
-- Cross-browser and layout adaptivity testing
-- Python
-- HTML basics for QA
-- DevTools for responsive design testing
+
+| Area | Topics |
+|------|--------|
+| QA Fundamentals | Manual testing methodologies, test case design, requirements analysis |
+| Frontend Basics | HTML for QA, cross-browser testing, layout adaptivity |
+| Tooling | DevTools for responsive design testing |
+| Programming | Python |
 
 ---
 
 ## Tools & Technologies 🛠️
-- GitHub
-- Jira
-- Chrome DevTools
-- Google Sheets
-- PyCharm
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ---
 
 ## Goals 🎯
-- Land my first entry-level QA role by **September/October 2026**
-- Build a strong portfolio of QA projects through TripleTen
-- Keep climbing — fast
+
+- [ ] Secure an entry-level QA role by **September/October 2026**
+- [ ] Develop a strong portfolio of QA projects through TripleTen
+- [ ] Continue growing within the field
 
 ---
 
 ## Projects 📂
-- 🔗 [Sprint 2 QA Project](https://github.com/tstewart5487-png/sprint-2-project-QA-tripleten)
+
+| Project | Description |
+|---------|-------------|
+| [Sprint 2 QA Project](https://github.com/tstewart5487-png/sprint-2-project-QA-tripleten) | TripleTen QA sprint project |
 
 ---
 
-*Always learning. Always testing.*
+*Committed to quality. Continuously improving.*
