@@ -51,4 +51,4 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 
 ![Teddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstewart5487-png&show_icons=true&theme=default&hide_border=true)
 
-*Committed to quality. Continuously improving.*
+*Committed to quality. Continuously improving.* 
