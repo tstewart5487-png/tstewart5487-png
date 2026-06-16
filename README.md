@@ -7,7 +7,7 @@ Twenty years in professional kitchens taught me that quality isn't optional. I'm
 
 ## About Me
 
-I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completing a structured career transition into the software industry. The discipline and attention to detail developed over two decades as an executive chef translate directly into QA — identifying defects, understanding root causes, and preventing recurrence.
+I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completing a structured career transition into the software industry. The discipline and attention to detail developed over two decades in high-pressure kitchen environments have become my foundation for meticulous QA work. I'm passionate about building robust, user-focused testing strategies and contributing to software quality excellence.
 
 ---
 
@@ -44,7 +44,7 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 
 | Project | Description |
 |---------|-------------|
-| [Sprint 2 QA Project](https://github.com/tstewart5487-png/sprint-2-project-QA-tripleten) | TripleTen QA sprint project |
+| [Sprint 2 QA Project - Urban Routes](https://github.com/tstewart5487-png/sprint-1-project-QA-tripleten) | Manual QA testing of Urban Routes ride-sharing platform with comprehensive test case suite using equivalence partitioning and boundary value analysis |
 
 ---
 
