@@ -41,11 +41,14 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 ---
 
 ## Projects 📂
-
 | Project | Description |
 |---------|-------------|
-| [Sprint 2 QA Project - Urban Routes](https://github.com/tstewart5487-png/sprint-1-project-QA-tripleten) | Manual QA testing of Urban Routes ride-sharing platform with comprehensive test case suite using equivalence partitioning and boundary value analysis |
+| [Sprint 3 – Urban Routes](https://github.com/tstewart5487-png/sprint-3-project-QA-tripleten) | Web application testing of Urban Routes — bug reporting on new and existing features including carsharing |
+| [Sprint 2 – Urban Routes](https://github.com/tstewart5487-png/sprint-2-project-QA-tripleten) | Manual QA testing of Urban Routes ride-sharing platform — test case design using equivalence partitioning and boundary value analysis |
+| [Sprint 1 – Urban Routes](https://github.com/tstewart5487-png/sprint-1-project-QA-tripleten) | Foundational QA testing of Urban Routes web app — bug reporting and test fundamentals |
 
 ---
+
+![Teddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstewart5487-png&show_icons=true&theme=default&hide_border=true)
 
 *Committed to quality. Continuously improving.*
