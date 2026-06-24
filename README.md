@@ -56,6 +56,7 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 
 | Project | Description |
 |---------|-------------|
+| [Sprint 4 – Urban Grocers API (Kits & Delivery)](https://github.com/tstewart5487-png/sprint4-api-testing) | API testing of kits and fast delivery endpoints — boundary value analysis, 86 test cases, 40 bugs filed |
 | [Urban Grocers – API Testing](https://github.com/tstewart5487-png/tripleten-api-testing) | API testing of the Urban Grocers platform using Postman — CRUD operations, Bearer token auth, and environment variables |
 | [Sprint 3 – Urban Routes](https://github.com/tstewart5487-png/sprint-3-project-QA-tripleten) | Web application testing of Urban Routes — bug reporting on new and existing features including carsharing |
 | [Sprint 2 – Urban Routes](https://github.com/tstewart5487-png/sprint-2-project-QA-tripleten) | Manual QA testing of Urban Routes ride-sharing platform — test case design using equivalence partitioning and boundary value analysis |
@@ -65,4 +66,4 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 
 ![Teddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstewart5487-png&show_icons=true&theme=default&hide_border=true)
 
-*Committed to quality. Continuously improving.*
+*Committed to quality.*
