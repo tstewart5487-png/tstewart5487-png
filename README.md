@@ -30,6 +30,7 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -66,4 +67,4 @@ I'm a **TripleTen Fellow** specializing in Quality Assurance, currently completi
 
 ![Teddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstewart5487-png&show_icons=true&theme=default&hide_border=true)
 
-*Committed to quality.*
+*Committed to quality. Continuously improving.*
