@@ -1,5 +1,5 @@
 # Teddy Stewart
-### Career Transition | Executive Chef → QA Engineer 🍴 → 🖥️
+### Career Transition | Executive Chef → QA Engineer 
 Twenty years in professional kitchens taught me that quality isn't optional. I'm bringing that same standard into tech.
 
 ---
@@ -12,7 +12,7 @@ Currently completing structured QA training with hands-on experience in manual t
 
 ---
 
-## Currently Learning 🧠
+## Currently Learning 
 
 | Area | Topics |
 |------|--------|
@@ -24,7 +24,7 @@ Currently completing structured QA training with hands-on experience in manual t
 
 ---
 
-## Tools & Technologies 🛠️
+## Tools & Technologies 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -37,7 +37,7 @@ Currently completing structured QA training with hands-on experience in manual t
 
 ---
 
-## Testing Techniques ✅
+## Testing Techniques 
 
 - **Test Design**: Equivalence Partitioning, Boundary Value Analysis, State Transition Testing
 - **Documentation**: Comprehensive test cases, step-by-step procedures, expected vs. actual results
@@ -48,7 +48,7 @@ Currently completing structured QA training with hands-on experience in manual t
 
 ---
 
-## Goals 🎯
+## Goals 
 
 - Secure an **entry-level QA role** by **September/October 2026**
 - Complete the **TripleTen QA program** with a portfolio of **6+ production-level tested projects**
@@ -58,7 +58,7 @@ Currently completing structured QA training with hands-on experience in manual t
 
 ---
 
-## Projects 📂
+## Projects 
 
 | Project | Description |
 |---------|-------------|
