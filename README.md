@@ -6,9 +6,8 @@ Twenty years in professional kitchens taught me that quality isn't optional. I'm
 
 ## About Me
 
-I'm a **TripleTen Fellow** specializing in Quality Assurance, transitioning from a 20-year culinary career into software quality. The precision, attention to detail, and problem-solving skills honed in high-volume kitchens translate seamlessly to QA. I'm driven by the belief that great software requires the same commitment to excellence as a well-executed dish—testing thoroughly, documenting clearly, and catching issues before they reach users.
-
-Currently completing structured QA training with hands-on experience in manual testing, API validation, and bug lifecycle management across multiple real-world projects.
+I'm a QA Engineer in training with TripleTen, transitioning from 20 years as an Executive Chef. Before QA, I ran high-volume kitchens — which meant working under pressure, catching mistakes before they went out the door, and following process exactly, every time.
+Right now I'm building out core QA skills: manual and automated testing, regression testing, bug tracking, and API validation. On the technical side I work with Python, SQL, Git, and Pandas, and I'm applying all of it across real projects as part of my training.
 
 ---
 
